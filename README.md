@@ -1,6 +1,7 @@
 # See-Through-Ears
 A prototype for the visually impaired to help understand their surroundings with the help a visual-to-text-to-audio converter (Using Neural Network)
 
+_(Collaborators: Sripriya Srinivasan, Rishika Chaudhary, Ajaiy Praveen)_
 
 Our goal is to bridge the gap between the visual world and those who are visually impaired by
 developing an innovative product called "See through your Ears." By harnessing the power of
