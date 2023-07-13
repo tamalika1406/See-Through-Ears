@@ -1,5 +1,5 @@
 # See-Through-Ears
-A prototype for the visually impaired to help understand their surroundings with the help a visual-to-text-to-audio converter (Deep Learning)
+A prototype for the visually impaired to help understand their surroundings with the help a visual-to-text-to-audio converter (Deep Learning.)
 
 _(Collaborators: Sripriya Srinivasan, Rishika Chaudhary, Ajaiy Praveen)_
 
